@@ -25,6 +25,10 @@
 }
 
 @media screen and (max-width:375px) {
+   .wraper-box {
+   position: relative;
+    top: 60px;
+ }
     .wraper-box {
         .box {
            
